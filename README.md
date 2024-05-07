@@ -1,6 +1,9 @@
 
 
-https://github.com/Vidhi-44/Talk-it/assets/122859541/959bca4c-c0a9-4054-8c61-2f6e95305b8b
+
+
+https://github.com/Vidhi-44/Talk-it/assets/122859541/9f8d5135-9d7c-47a5-891f-9150f24d991c
+
 
 
 # Talk-it
