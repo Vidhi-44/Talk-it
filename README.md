@@ -1,3 +1,7 @@
+Real time chat application which supports  concurrent users.
+Socket.io to enable bidirectional communication between clients and the server, ensuring seamless and instantaneous messaging.
+Client and server are  connected with websockets, ensuring real-time communication for a smooth and responsive user experience.
+Our backend is built using Node.js, providing a scalable and efficient environment for managing user data.
 
 
 
